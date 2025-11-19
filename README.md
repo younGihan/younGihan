@@ -1,5 +1,8 @@
 ## Hello there! I'm **Youngi** 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/young-hwan-kim)
+
+
 ### 🏗️ Cloud Solutions Architect | Cloud and Plattform Engineering Enthusiast | IAM Ninja
 
 A Cloud Solutions Architect focused on bridging the gap between business requirements and technical implementation. I design scalable, secure, and cost-effective systems, leveraging my background in cloud architecture and my hands-on knowledge of various technologies.
@@ -27,22 +30,6 @@ My focus is on the **'Why'** and **'How'** of system design, utilizing a broad s
 <img src="https://go-skill-icons.vercel.app/api/icons?i=keycloak&theme=light"/>
 -->
 
-## 🏅 Certifications & Education
+## Public GitHub Stats
 
-* (ISC2) CISSP - Certified Information Systems Security Professional
-* [Cloud Provider] **Solutions Architect Professional**
-
-<!--
-**younGihan/younGihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younGihan)
